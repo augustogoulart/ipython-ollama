@@ -1,0 +1,17 @@
+[project]
+name = "ipython-ollama"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Augusto Goulart", email = "augusto at goulart.me" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+ipyollama = "ipyollama:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
