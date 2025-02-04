@@ -1,6 +1,6 @@
 [project]
 name = "ipython-ollama"
-version = "0.0.2"
+version = "0.0.3"
 description = "IPython magics for running Ollama models within the shell"
 authors = [{ name = "Augusto Goulart", email = "augusto@goulart.me" }]
 maintainers = [{ name = "Augusto Goulart", email = "augusto@goulart.me" }]
